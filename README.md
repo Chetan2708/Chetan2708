@@ -1,4 +1,7 @@
-# Chetan Gupta - Software Developer 🧑‍💻
+
+### Hi there 👋, Chetan Gupta
+#### Full stack Developer 🧑‍💻
+![Full stack Developer 🧑‍💻](https://res.cloudinary.com/dq87rxvyn/image/upload/v1712568348/github-header-image_khzysy.png)
 
 <p align="center">
   <a href="https://chetandevhub.vercel.app" target="_blank">
@@ -9,44 +12,19 @@
   </a>
 </p>
 
-## About Me
-
-I'm a passionate software developer on a mission to craft amazing things with code! 🚀 I'm fluent in a wide range of technologies, including Python, Flutter, JavaScript, HTML, CSS, C++, and SQL. I've built awesome projects using Node.js, Express.js, socket.io, React.js, and more.
-
-I thrive on challenges and love diving into complex problems. Whether I'm coding solo or collaborating with a team, I'm always eager to push the boundaries of what's possible in software development. 🔍🛠️
-
-
 ![ Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan2708&theme=cobalt_icons=true)
-## My Skills
 
-- **Programming Languages:** Python, Flutter, JavaScript, C++, SQL
-- **Front-end:** HTML, CSS, React.js
-- **Back-end:** Node.js, Express.js, socket.io
-- **Databases:** SQL, NoSQL
-- **Tools & Frameworks:** Git, GitHub, Visual Studio Code, Postman, Figma
+👋  I'm Chetan Gupta, software developer focused on crafting things with code! I have experience with Python, Flutter, JavaScript, HTML, CSS, C++, and SQL, and have completed projects using Node.js, Express.js, socket.io, React.js, among others! 💻💡
 
-## Projects
+I enjoy challenging myself and tackling complex problems, either individually or as part of a team. I am always excited to explore the possibilities in software development. 🔍🛠️
 
-Check out some of my recent projects:
+If you need a dedicated developer with a passion for innovation, let's connect and create something 
 
-1. [Project 1 Name](https://github.com/chetanguptadev/project1)
-   - **Description:** A brief description of the project.
-   - **Technologies Used:** Python, Django, React.js, MongoDB
+Skills:  REACT / JS / HTML / CSS / Node js / Express js / Python / CSS / C++ / SQL
 
-2. [Project 2 Name](https://github.com/chetanguptadev/project2)
-   - **Description:** A brief description of the project.
-   - **Technologies Used:** Flutter, Dart, Firebase
+- 🔭 I’m currently working on this page. 
 
-3. [Project 3 Name](https://github.com/chetanguptadev/project3)
-   - **Description:** A brief description of the project.
-   - **Technologies Used:** JavaScript, Node.js, Express.js, Socket.IO
 
-## Connect with Me
 
-I'm always eager to connect with fellow developers and collaborate on exciting projects. Feel free to reach out to me through the following channels:
 
-- **Portfolio:** [chetandevhub.vercel.app](https://chetandevhub.vercel.app)
-- **LinkedIn:** [Chetan Gupta](https://www.linkedin.com/in/chetan-gupta-developer/)
-- **Email:** [chetanguptadev@gmail.com](mailto:chetanguptadev@gmail.com)
 
-Let's build wonders together! 🌟
