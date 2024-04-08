@@ -6,8 +6,6 @@
 
 
 
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan2708&theme=cobalt_icons=true)
-
 👋 I'm Chetan Gupta, software developer focused on crafting things with code! I have experience with Python 🐍, Flutter 📱, JavaScript 🌐, HTML 🌍, CSS 🎨, C++ 💻, and SQL 🗄️, and have completed projects using Node.js 🖥️, Express.js 🌐, socket.io 💬, React.js 🔍, among others! 💻💡
 
 I enjoy challenging myself and tackling complex problems, either individually or as part of a team. I am always excited to explore the possibilities in software development. 🔍🛠️
