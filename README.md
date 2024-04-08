@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Gupta</h1>
 <h3 align="center">Full stack Developer🧑‍💻</h3>
 
-
+![Design and Development](https://github.com/Chetan2708/Chetan2708/blob/main/github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan2708&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan2708" /> </p>
 
