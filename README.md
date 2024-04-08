@@ -15,6 +15,8 @@ I'm a passionate software developer on a mission to craft amazing things with co
 
 I thrive on challenges and love diving into complex problems. Whether I'm coding solo or collaborating with a team, I'm always eager to push the boundaries of what's possible in software development. 🔍🛠️
 
+
+![ Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan2708&theme=cobalt_icons=true)
 ## My Skills
 
 - **Programming Languages:** Python, Flutter, JavaScript, C++, SQL
