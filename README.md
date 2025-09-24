@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chetandevhub.vercel.app/](https://chetandevhub.vercel.app/)
 
-- 📝 I regularly write articles on [https://dev.to/chetan_2708](https://dev.to/chetan_2708)
+- 📝 I regularly write articles on [https://hashnode.com/chetan_2708](https://hashnode.com/@Chetan27#:~:text=Feb%2028%2C%202023-,Recent%20Activity,-Jun%2015)
 
 - 💬 Ask me about **Web**
 
