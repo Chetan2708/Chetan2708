@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/chetan_2708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chetan_2708" height="30" width="40" /></a>
+<a href="[https://dev.to/chetan_2708](https://drive.google.com/drive/u/0/home)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chetan_2708" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chetan-gupta2708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-gupta2708" height="30" width="40" /></a>
 </p>
 
