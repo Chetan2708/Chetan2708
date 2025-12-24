@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan2708&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan2708" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://chetandevhub.vercel.app/](https://chetandevhub.vercel.app/)
+- 👨‍💻 All of my projects are available at [Chetan-Software-Dev](https://chetan-software-developer.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/chetan_2708](https://hashnode.com/@Chetan27#:~:text=Feb%2028%2C%202023-,Recent%20Activity,-Jun%2015)
 
